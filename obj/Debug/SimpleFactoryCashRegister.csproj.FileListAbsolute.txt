@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\bin\Debug\SimpleFactoryCashRegister.exe.config
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\bin\Debug\SimpleFactoryCashRegister.exe
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\bin\Debug\SimpleFactoryCashRegister.pdb
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\obj\Debug\SimpleFactoryCashRegister.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\obj\Debug\SimpleFactoryCashRegister.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\obj\Debug\SimpleFactoryCashRegister.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\obj\Debug\SimpleFactoryCashRegister.exe
+c:\users\user\documents\visual studio 2017\Projects\SimpleFactoryCashRegister\SimpleFactoryCashRegister\obj\Debug\SimpleFactoryCashRegister.pdb
